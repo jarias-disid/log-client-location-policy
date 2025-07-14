@@ -6,7 +6,7 @@
 
     <groupId>83441d7f-69e7-4e66-9db9-a46dd7a28990</groupId>
     <artifactId>log-client-location</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.2</version>
 
     <name>Log client location</name>
     <description>Policy for logging client location using client ip address</description>

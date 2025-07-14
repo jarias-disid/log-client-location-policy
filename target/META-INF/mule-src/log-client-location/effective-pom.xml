@@ -8,14 +8,14 @@
 <!-- ====================================================================== -->
 <!--                                                                        -->
 <!-- Effective POM for project                                              -->
-<!-- '83441d7f-69e7-4e66-9db9-a46dd7a28990:log-client-location:mule-policy:1.0.0' -->
+<!-- '83441d7f-69e7-4e66-9db9-a46dd7a28990:log-client-location:mule-policy:1.0.1' -->
 <!--                                                                        -->
 <!-- ====================================================================== -->
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
   <groupId>83441d7f-69e7-4e66-9db9-a46dd7a28990</groupId>
   <artifactId>log-client-location</artifactId>
-  <version>1.0.0</version>
+  <version>1.0.1</version>
   <packaging>mule-policy</packaging>
   <name>Log client location</name>
   <description>Policy for logging client location using client ip address</description>
@@ -81,7 +81,7 @@
       </testResource>
     </testResources>
     <directory>c:\Users\jaria\Documents\github_mcd2\log-client-location-policy\target</directory>
-    <finalName>log-client-location-1.0.0</finalName>
+    <finalName>log-client-location-1.0.1</finalName>
     <pluginManagement>
       <plugins>
         <plugin>
@@ -233,7 +233,7 @@
               <generatePom>false</generatePom>
               <groupId>83441d7f-69e7-4e66-9db9-a46dd7a28990</groupId>
               <artifactId>log-client-location</artifactId>
-              <version>1.0.0</version>
+              <version>1.0.1</version>
               <packaging>yaml</packaging>
               <classifier>policy-definition</classifier>
             </configuration>
